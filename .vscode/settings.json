@@ -1,0 +1,6 @@
+{
+	"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 1000 }",
+	"[cpp]": {
+		"editor.wordWrapColumn": 120
+	},
+}
