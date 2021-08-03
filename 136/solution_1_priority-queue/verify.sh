@@ -2,7 +2,7 @@
 
 g++ -std=c++11 -o main main.cpp -lm -Wall
 
-./main < data.in > data.out
+./main > data.out
 
 if diff -Z data.out expected.out; then
 	echo "Accepted"
