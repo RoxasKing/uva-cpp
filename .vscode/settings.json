@@ -3,8 +3,4 @@
 	"[cpp]": {
 		"editor.wordWrapColumn": 120
 	},
-	"files.associations": {
-		"*.tcc": "cpp",
-		"stdexcept": "cpp"
-	},
 }
