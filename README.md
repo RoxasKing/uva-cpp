@@ -12,7 +12,11 @@ C++ solutions's for UVa
 - 1592  Database ✔
 - 1593  Alignment of Code ✔
 - 1594  Ducci Sequence ✔
+- 1595  Symmetry ✔
+- 10391 Compound Words ✔
 - 10474 Where is the Marble? ✔
+- 10763 Foreign Exchange ✔
 - 10815 Andy's First Dictionary ✔
 - 10935 Throwing cards away I ✔
 - 12096 The SetStack Computer ✔
+- 12100 Printer Queue ✔
