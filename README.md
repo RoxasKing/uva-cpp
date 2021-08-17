@@ -8,8 +8,10 @@ C++ solutions's for UVa
 - 221   Urban Elevations ✔
 - 230   Borrowers ✔
 - 400   Unix ls ✔
+- 511   Do You Know the Way to San Jose? ✔
 - 540   Team Queue ✔
 - 814   The Letter Carrier's Rounds ✔
+- 822   Queue and A ✔
 - 1592  Database ✔
 - 1593  Alignment of Code ✔
 - 1594  Ducci Sequence ✔
