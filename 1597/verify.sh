@@ -1,6 +1,6 @@
 #!/bin/sh
 
-g++ -std=c++11 -o main main2.cpp -lm -Wall
+g++ -std=c++11 -o main main.cpp -lm -Wall
 
 ./main < data.in > data.out
 

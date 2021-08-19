@@ -18,6 +18,7 @@ C++ solutions's for UVa
 - 1595  Symmetry ✔
 - 1596  Bug Hunt ✔
 - 1597  Searching the Web ✔
+- 1598  Exchange ✔
 - 10391 Compound Words ✔
 - 10474 Where is the Marble? ✔
 - 10763 Foreign Exchange ✔
