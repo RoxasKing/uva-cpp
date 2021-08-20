@@ -5,6 +5,7 @@ C++ solutions's for UVa
 - 136   Ugly Numbers ✔
 - 156   Ananagrams ✔
 - 207   PGA Tour Prize Money ✔
+- 212   Use of Hospital Facilities ✔
 - 221   Urban Elevations ✔
 - 230   Borrowers ✔
 - 400   Unix ls ✔
@@ -26,4 +27,5 @@ C++ solutions's for UVa
 - 10935 Throwing cards away I ✔
 - 12096 The SetStack Computer ✔
 - 12100 Printer Queue ✔
+- 12333 Revenge of Fibonacci ✔
 - 12504 Updating a Dictionary ✔
