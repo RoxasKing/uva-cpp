@@ -5,11 +5,14 @@ C++ solutions's for UVa
 - 136   Ugly Numbers ✔
 - 156   Ananagrams ✔
 - 207   PGA Tour Prize Money ✔
+- 210   Concurrency Simulator ✔
 - 212   Use of Hospital Facilities ✔
 - 221   Urban Elevations ✔
 - 230   Borrowers ✔
 - 400   Unix ls ✔
+- 442   Matrix Chain Multiplication ✔
 - 511   Do You Know the Way to San Jose? ✔
+- 514   Rails ✔
 - 540   Team Queue ✔
 - 814   The Letter Carrier's Rounds ✔
 - 822   Queue and A ✔
