@@ -28,7 +28,9 @@ C++ solutions's for UVa
 - 10763 Foreign Exchange ✔
 - 10815 Andy's First Dictionary ✔
 - 10935 Throwing cards away I ✔
+- 11988 Broken Keyboard (a.k.a. Beiju Text) ✔
 - 12096 The SetStack Computer ✔
 - 12100 Printer Queue ✔
 - 12333 Revenge of Fibonacci ✔
 - 12504 Updating a Dictionary ✔
+- 12657 Boxes in a Line ✔

@@ -5,6 +5,9 @@ g++ -std=c++11 -o main main.cpp -lm -Wall
 ./main < data.in > data.out
 
 if diff -qZ data.out expected.out; then
+	if [ -f "data.out" ]; then
+		rm data.out
+	fi
 	if [ -f "diff.out" ]; then
 		rm diff.out
 	fi
