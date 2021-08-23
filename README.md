@@ -2,6 +2,7 @@
 C++ solutions's for UVa
 
 - 101   The Blocks Problem ✔
+- 122   Trees on the level ✔
 - 136   Ugly Numbers ✔
 - 156   Ananagrams ✔
 - 207   PGA Tour Prize Money ✔
@@ -14,6 +15,8 @@ C++ solutions's for UVa
 - 511   Do You Know the Way to San Jose? ✔
 - 514   Rails ✔
 - 540   Team Queue ✔
+- 548   Tree ✔
+- 679   Dropping Balls ✔
 - 814   The Letter Carrier's Rounds ✔
 - 822   Queue and A ✔
 - 1592  Database ✔
