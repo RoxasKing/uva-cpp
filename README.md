@@ -9,6 +9,7 @@ C++ solutions's for UVa
 - 210   Concurrency Simulator ✔
 - 212   Use of Hospital Facilities ✔
 - 221   Urban Elevations ✔
+- 297   Quadtrees ✔
 - 230   Borrowers ✔
 - 400   Unix ls ✔
 - 442   Matrix Chain Multiplication ✔
@@ -17,8 +18,10 @@ C++ solutions's for UVa
 - 540   Team Queue ✔
 - 548   Tree ✔
 - 679   Dropping Balls ✔
+- 699   The Falling Leaves ✔
 - 814   The Letter Carrier's Rounds ✔
 - 822   Queue and A ✔
+- 839   Not so Mobile ✔
 - 1592  Database ✔
 - 1593  Alignment of Code ✔
 - 1594  Ducci Sequence ✔
