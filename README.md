@@ -17,11 +17,14 @@ C++ solutions's for UVa
 - 514   Rails ✔
 - 540   Team Queue ✔
 - 548   Tree ✔
+- 572   Oil Deposits ✔
 - 679   Dropping Balls ✔
 - 699   The Falling Leaves ✔
 - 814   The Letter Carrier's Rounds ✔
+- 816   Abbott's Revenge ✔
 - 822   Queue and A ✔
 - 839   Not so Mobile ✔
+- 1103  Ancient Messages ✔
 - 1592  Database ✔
 - 1593  Alignment of Code ✔
 - 1594  Ducci Sequence ✔
@@ -29,6 +32,8 @@ C++ solutions's for UVa
 - 1596  Bug Hunt ✔
 - 1597  Searching the Web ✔
 - 1598  Exchange ✔
+- 10129 Play on Words ✔
+- 10305 Ordering Tasks ✔
 - 10391 Compound Words ✔
 - 10474 Where is the Marble? ✔
 - 10763 Foreign Exchange ✔
