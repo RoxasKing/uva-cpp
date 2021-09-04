@@ -36,12 +36,14 @@ C++ solutions's for UVa
 - 10305 Ordering Tasks ✔
 - 10391 Compound Words ✔
 - 10474 Where is the Marble? ✔
+- 10562 Undraw the Trees ✔
 - 10763 Foreign Exchange ✔
 - 10815 Andy's First Dictionary ✔
 - 10935 Throwing cards away I ✔
 - 11988 Broken Keyboard (a.k.a. Beiju Text) ✔
 - 12096 The SetStack Computer ✔
 - 12100 Printer Queue ✔
+- 12171 Sculpture ✔
 - 12333 Revenge of Fibonacci ✔
 - 12504 Updating a Dictionary ✔
 - 12657 Boxes in a Line ✔
